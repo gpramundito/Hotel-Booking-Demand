@@ -1,1 +1,2 @@
 # Hotel-Booking-Demand
+This project focuses on predicting booking cancellations in the hospitality industry using machine learning techniques. The primary goal is to identify potential cancellations in advance and implement effective mitigation strategies, such as offering discounts, to reduce the financial impact on the business. By leveraging predictive analytics, we aim to enhance customer retention, optimize revenue management, and improve overall operational efficiency.
